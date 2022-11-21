@@ -33,7 +33,7 @@
 ### Testes
 
 ![Cypress](https://img.shields.io/badge/Cypress-orange)
-![Jest](https://img.shields.io/badge/JestS-orange)
+![Jest](https://img.shields.io/badge/Jest-orange)
 
 ### Frontend
 
@@ -42,7 +42,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-blue)
 ![React](https://img.shields.io/badge/React-blue)
 ![Storybook](https://img.shields.io/badge/Storybook-blue)
-![NextJs](https://img.shields.io/badge/NextJs-blue)
+![NextJs](https://img.shields.io/badge/NextJS-blue)
 
 ### Infraestrutura
 
