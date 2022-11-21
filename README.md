@@ -2,7 +2,18 @@
 
 ### Bem vindo ao meu perfil! Sou programador frontend
 
-![José Vitor stats](https://github-readme-stats.vercel.app/api?username=JoseVitor-1337&locale=pt-br&show_icons=true&theme=radical)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=JoseVitor-1337&locale=pt-br&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=JoseVitor-1337&locale=pt-br&show_icons=true&theme=buefy"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Sobre mim
 
