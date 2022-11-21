@@ -48,4 +48,15 @@
 
 ![Docker](https://img.shields.io/badge/Docker-navy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor-1337&locale=pt-br&langs_count=4&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor-1337&locale=pt-br&langs_count=4&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor-1337&locale=pt-br&langs_count=4&bg_color=FFFFFF&title_color=0d1117&text_color=0d1117"
+    media="(prefers-color-scheme: light)"
+  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor-1337&locale=pt-br&langs_count=4&bg_color=FFFFFF&title_color=0d1117&text_color=0d1117" />
+</picture>
