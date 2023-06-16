@@ -44,10 +44,6 @@
 ![Storybook](https://img.shields.io/badge/Storybook-blue)
 ![NextJs](https://img.shields.io/badge/NextJS-blue)
 
-### Infraestrutura
-
-![Docker](https://img.shields.io/badge/Docker-navy)
-
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor-1337&locale=pt-br&langs_count=4&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF"
